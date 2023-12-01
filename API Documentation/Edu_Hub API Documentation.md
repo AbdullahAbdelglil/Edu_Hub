@@ -9,7 +9,7 @@
 ## Error Handling
 - The API follows standard HTTP response codes.
 
-## 1. Instructor API
+## 🔴 1. Instructor API
 
 ### Get All Instructors
 `GET /apiV1/instructors`
@@ -43,7 +43,7 @@
 
 
 
-## 2. Course API
+## 🔴 2. Course API
 
 ### Get All Courses
 `GET /apiV2/courses`
@@ -82,7 +82,7 @@
 `DELETE /apiV2/courses`
 
 
-## 3. Student API 
+## 3. 🔴 Student API 
 
 ### Get All Students
 `GET /apiV3/students`
