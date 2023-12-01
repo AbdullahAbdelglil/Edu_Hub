@@ -82,9 +82,9 @@ The project utilizes the robust MySQL database system. To set up the database, a
 
 # Database Configuration
 `spring.datasource.url=jdbc:mysql://localhost:3306/edu_hub`<br>
-spring.datasource.username=root
-spring.datasource.password=root
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver`
+`spring.datasource.username=root`<br>
+`spring.datasource.password=root`<br>
+`spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver`<br>
 
 # Getting Started
 
