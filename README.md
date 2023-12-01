@@ -81,10 +81,10 @@ The project utilizes the robust MySQL database system. To set up the database, a
 2. Configure the application properties file (`application.properties`) with the pertinent database connection details.
 
 # Database Configuration
-`spring.datasource.url=jdbc:mysql://localhost:3306/edu_hub`
-`spring.datasource.username=root`
-`spring.datasource.password=root`
-`spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver`
+`spring.datasource.url=jdbc:mysql://localhost:3306/edu_hub`<br>
+spring.datasource.username=root
+spring.datasource.password=root
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver`
 
 # Getting Started
 
