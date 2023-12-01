@@ -82,7 +82,7 @@
 `DELETE /apiV2/courses`
 
 
-## 3. 🔴 Student API 
+## 🔴 3. Student API 
 
 ### Get All Students
 `GET /apiV3/students`
