@@ -107,5 +107,15 @@ The application will be accessible at `http://localhost:8080`
 for comprehensive API documentation: go to API documentation directory in the directory tree
 
 
+## Contributing
+
+We welcome contributions from the community. If you have ideas for improvements, bug fixes, or additional features, please follow these steps:
+
+- Fork the repository.
+- Create a branch for your feature or bug fix: `git checkout -b feature-name`.
+- Make your changes and commit them with clear and concise commit messages.
+- Push your changes to your forked repository.
+- Create a pull request with a detailed description of your changes.
 
  
+#### feel free to contact with me: ![LinkedIn](https://www.linkedin.com/in/abdullah-abduljalil-0b966b265/)
