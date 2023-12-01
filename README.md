@@ -1,6 +1,12 @@
 # Edu_Hub Project
 EduHub is a comprehensive Educational Platform Management System developed using Spring Boot, Spring Data JPA, and Hibernate. This system facilitates the management of instructors, courses, and students within an educational center. The project utilizes advanced mapping features provided by Hibernate for efficient and flexible data handling.
 
+![Java Badge](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-3.1.3-brightgreen)
+![MySQL Badge](https://img.shields.io/badge/MySQL-8.0-orange)
+![IntelliJ Badge](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red)
+![Postman Badge](https://img.shields.io/badge/Testing%20Tool-Postman-orange)
+
 
 ## Project Overview
 
