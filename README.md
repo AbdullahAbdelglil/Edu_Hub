@@ -8,7 +8,7 @@ EduHub is a comprehensive Educational Platform Management System developed using
 ![Postman Badge](https://img.shields.io/badge/Testing%20Tool-Postman-orange)
 
 
-## Project Overview
+## 🔴 Project Overview
 
 Edu_Hub stands as an innovative educational platform, meticulously crafted using advanced Hibernate mappings alongside the robust Spring ecosystem, which encompasses Spring Boot, Spring Data JPA, and RESTful services.
 
@@ -22,18 +22,18 @@ The project revolves around five fundamental entities:
 
 In this well-architected system, the entities interconnect with precision, establishing meaningful relationships.
 
-### Instructor Entity
+### ⚪ Instructor Entity
 
 1. **InstructorDetail:** Establishes a one-to-one, bi-directional relationship.
 2. **List of Courses:** Forms a many-to-one, bi-directional relationship.
 
-### Course Entity
+### ⚪ Course Entity
 
 1. **Instructor:** Defines a one-to-many, bi-directional relationship.
 2. **List of Reviews:** Illustrates a many-to-one, uni-directional relationship.
 3. **List of Students:** Exhibits a many-to-many, bi-directional relationship.
 
-### Student Entity
+### ⚪ Student Entity
 
 1. **List of Courses:** Demonstrates a many-to-many, bi-directional relationship.
 
@@ -41,7 +41,7 @@ In this well-architected system, the entities interconnect with precision, estab
 
 Edu_Hub presents an intuitive set of APIs, ensuring a seamless user experience.
 
-### 1. Instructor API
+### 1. 🔴 Instructor API
 
 - Retrieve all instructors
 - Obtain instructor by ID
@@ -54,7 +54,7 @@ Edu_Hub presents an intuitive set of APIs, ensuring a seamless user experience.
 - Delete all instructors
 - Remove an individual instructor by ID
 
-### 2. Course API
+### 2. 🔴 Course API
 
 - Retrieve all courses
 - Obtain course by course ID
@@ -69,7 +69,7 @@ Edu_Hub presents an intuitive set of APIs, ensuring a seamless user experience.
 - Delete course by ID
 - Delete all courses
 
-### 3. Student API
+### 3. 🔴 Student API
 
 - Retrieve all students
 - Obtain student by ID
@@ -79,7 +79,7 @@ Edu_Hub presents an intuitive set of APIs, ensuring a seamless user experience.
 - Delete a student
 - Delete all students
 
-## Database
+## ⚪ Database
 
 The project utilizes the robust MySQL database system. To set up the database, adhere to the following steps:
 
@@ -92,7 +92,7 @@ The project utilizes the robust MySQL database system. To set up the database, a
 `spring.datasource.password=root`<br>
 `spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver`<br>
 
-# Getting Started
+# 🐱‍🏍 Getting Started
 
 To launch the Edu_Hub application, undertake the following steps:
 
@@ -102,12 +102,12 @@ To launch the Edu_Hub application, undertake the following steps:
 
 The application will be accessible at `http://localhost:8080`
 
-## API Documintation
+## 📄 API Documintation
 
 for comprehensive API documentation: go to API documentation directory in the directory tree
 
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions from the community. If you have ideas for improvements, bug fixes, or additional features, please follow these steps:
 
@@ -118,4 +118,4 @@ We welcome contributions from the community. If you have ideas for improvements,
 - Create a pull request with a detailed description of your changes.
 
  
-## feel free to contact with me: [LinkedIn](https://www.linkedin.com/in/abdullah-abduljalil-0b966b265/)
+## ❤ feel free to contact with me: [LinkedIn](https://www.linkedin.com/in/abdullah-abduljalil-0b966b265/)
